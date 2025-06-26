@@ -35,3 +35,7 @@ Traversal (display list)
 Language: C
 
 Compiler: GCC / Code::Visual Studio Code
+
+# OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/0c58df11-df4b-4084-bb19-a442eff5f7c3)
